@@ -1416,3 +1416,9 @@ Entries:
         nuts. Add nuts to your shadekin. What the fuck ever.
   id: 152
   time: '2026-02-28T23:01:04.0000000+00:00'
+- author: NotLivyathan
+  changes:
+    - type: Add
+      message: Quadborgs are now able to wear collars!
+  id: 153
+  time: '2026-02-28T23:01:24.0000000+00:00'
