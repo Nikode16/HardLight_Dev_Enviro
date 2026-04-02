@@ -390,7 +390,8 @@
 
 - type: entity
   id: SyringeCaseCYN182
-  parent: SyringeCase (Vial Case)
+  parent: SyringeCase
+  name: Syringe Case (Vial Case)
   suffix: CYN182, Filled
   components:
   - type: Tag
