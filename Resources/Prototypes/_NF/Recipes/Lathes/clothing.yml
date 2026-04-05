@@ -910,6 +910,11 @@
   result: NFPouchCargo
 
 - type: latheRecipe
+  id: HLFreezerPouch
+  parent: NFBaseBeltRecipe
+  result: HLFreezerPouch
+
+- type: latheRecipe
   parent: BaseToolRecipe
   id: UtilityBeltChiefEngineer
   result: ClothingBeltChiefEngineer
